@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HW41
+public class HW4_1
 {
 	public static void main(String[] args) {
 	    String temp="";
